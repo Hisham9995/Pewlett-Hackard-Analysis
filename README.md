@@ -6,10 +6,16 @@ Mentorship eligibility file  consists employee number , First name , Last name ,
 
 ## Results
 
-  [](Queries/Mentronship_eligibility2.png)
- Mentronship_eligibility.csv file iditifies employees who can apply for the program there are 1,549 employees that qualify for the mentorship program
+      
+   [](Queries/Mentronship_eligibility2.png)
 
-  [](/Queries/retiring_titles2.png)
+
+Mentronship_eligibility.csv file iditifies employees who can apply for the program there are 1,549 employees that qualify for the mentorship program
+
+   
+   [](/Queries/retiring_titles2.png)
+ 
+ 
  Retiring_titles.csv  file  iditifies Number of Retiring Employees per Title we can see   29414 of Senior Engineer Analysis 
 senior positions will retire soon leaving a big gap for leaders in the company.
 The company has to create a program to cover the empty vacancies  and should create a futue plan  to train a new eployees and cover these positions 
